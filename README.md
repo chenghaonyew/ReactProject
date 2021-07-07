@@ -1,4 +1,4 @@
-# To View Project
+# React Resort Project
 Click [**HERE**](https://react-beach-project.netlify.com/) to view the project online!
 <br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
